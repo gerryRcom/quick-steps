@@ -1,0 +1,10 @@
+template - quick step guide (This first line is used as the menu item text)
+----------------------------
+This goes through the key steps required for a procedure
+
+Go to a location
+Carry out some steps
+Run a command: script --test
+etc.
+
+Any finishing/ close off actions
