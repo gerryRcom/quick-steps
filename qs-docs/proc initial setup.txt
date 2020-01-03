@@ -1,0 +1,11 @@
+Procedure 1 quick step guide
+----------------------------
+This goes through the key steps required for procedure 1
+
+Go to proc1 website
+Ensure items 1, 2, 4 are listed
+Add items 3 and 5 pulling data from request form
+Run command: proc1 --test
+Assuming test result is good run command: proc1 --apply
+
+Mark procedure complete on form
